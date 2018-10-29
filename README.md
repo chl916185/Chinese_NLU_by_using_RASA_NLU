@@ -166,7 +166,7 @@ cross_validation/spacy.bash
     </thead>
     <tbody>
     <tr>
-        <td>1</td>
+        <td>MITIE+jieba</td>
         <td>0.986</td>
         <td>0.986</td>
         <td>0.986</td>
@@ -181,7 +181,7 @@ cross_validation/spacy.bash
         <td>0.973</td>
     </tr>
     <tr>
-        <td>2</td>
+        <td>tensorflow_embedding</td>
         <td>0.990</td>
         <td>0.990</td>
         <td>0.990</td>
@@ -196,7 +196,7 @@ cross_validation/spacy.bash
         <td>0.975</td>
     </tr>
     <tr>
-        <td>3</td>
+        <td>spacy </td>
         <td>0.992</td>
         <td>0.992</td>
         <td>0.992</td>
